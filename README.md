@@ -52,7 +52,7 @@ Visit `http://localhost:5173`.
 
 ## 3. Try it out
 
-https://tutorbook-ten.vercel.app/
+https://tutorbooks.vercel.app/
 
 1. Register two accounts: one as a **tutor**, one as a **student**.
 2. Log in as the tutor, create a lesson listing.
